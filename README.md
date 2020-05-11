@@ -12,8 +12,8 @@ Declaro que não sou autor da metodologia empregada.
 
 - Dados população do Pará: https://www.ibge.gov.br/estatisticas/sociais/populacao/9109-projecao-da-populacao.html?=&t=resultados 
 
-- Dados covid-19 na Coréia: https://www.cdc.go.kr/board/board.es?mid=a30501000000&bid=0031&list_no=367167&act=view _Atualizados de acordo com o último relátorio oficial do dia 02-05-2020_
+- Dados covid-19 na Coréia: https://www.cdc.go.kr/board/board.es?mid=a30501000000&bid=0031&list_no=367167&act=view (_Última Atualização, 02-05-2020_
 
-- Dados covid-19 no Pará: https://www.covid-19.pa.gov.br/#/ _Atualizados até dia 10-05-2020_
+- Dados covid-19 no Pará: https://www.covid-19.pa.gov.br/#/ (_Última Atualização, 10-05-2020_)
 
 
